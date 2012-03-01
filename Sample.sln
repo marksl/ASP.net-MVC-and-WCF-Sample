@@ -2,6 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{47A84445-8C50-4B6E-9364-DF1589C45BC0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6CA9C56E-46E2-4405-BB29-8A91DC86F4FE} = {6CA9C56E-46E2-4405-BB29-8A91DC86F4FE}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{6CA9C56E-46E2-4405-BB29-8A91DC86F4FE}"
 EndProject
