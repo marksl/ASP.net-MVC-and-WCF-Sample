@@ -1,7 +1,0 @@
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\UI\bin\UI.dll
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\UI\bin\UI.pdb
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\UI\bin\EntityFramework.dll
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\UI\bin\EntityFramework.xml
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\UI\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\UI\obj\Debug\UI.dll
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\UI\obj\Debug\UI.pdb

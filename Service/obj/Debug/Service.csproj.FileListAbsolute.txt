@@ -1,5 +1,0 @@
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\Service\bin\Service.dll
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\Service\bin\Service.pdb
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\Service\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\Service\obj\Debug\Service.dll
-C:\Users\Aloc\ASP.net-MVC-and-WCF-Sample\Service\obj\Debug\Service.pdb
